@@ -18,7 +18,8 @@ OCR, also known as Optical Character Recognition allows you to 'recognise' text 
 
 Detection execution uses the CRAFT (Character Region Awareness for Text Detection) algorithm
 
-
+## Youtube Link
+   EasyOcr Demo and text search - https://www.youtube.com/watch?v=DPNR69RHNyY
 
 ## Acknowledgements
 
